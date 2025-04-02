@@ -26,3 +26,49 @@ Apply multimedia elements such as audio and video.
 - Ensure semantic correctness.
 
 Happy Coding! 💻✨
+**ANSWER.**
+
+ <!DOCTYPE html>
+       <html>
+        <head>
+            <tittle>My first web page</tittle>
+        </head>
+        <body>
+            <h1>Web Development</h1>
+            <h3>ordered list</h3>
+            <ol type="A" start="5">
+                <li>Software engineering</li>
+                <li>Web development</li>
+                <li>Python</li>
+                <li>Database</li>
+            </ol>
+            <h3>un-ordered list</h3>
+            <ul type="i">
+                <li>Joel</li>
+                <li>Mathew</li>
+                <li>Jonh</li>
+                <li>Waswa</li>
+            </ul>
+            <h3>Definition list</h3>
+            <dl>
+                <dt>HTML</dt>
+                <dd>Hyper text markup language</dd>
+                <dt>SQL</dt>
+                <dd>Structured query language</dd>
+            </dl>
+            <h3>HTML Images</h3> 
+            <img src="nature.jpg" alt="nature picture" width="300" height="400">
+            <table>
+                <thead>Name</thead>
+                <thead>Address</thead>
+                <thead>Mobile</thead>
+                <thead>Email</thead>
+                <tr>
+                    <td>Joel</td>
+                    <td>50200</td>
+                    <td>0758938905</td>
+                    <td>joesimiyu21@gmail.com</td>
+                </tr>
+            </table>
+        </body>
+       </html>
