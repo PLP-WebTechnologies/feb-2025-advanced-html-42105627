@@ -36,14 +36,14 @@ Happy Coding! 💻✨
         <body>
             <h1>Web Development</h1>
             <h3>ordered list</h3>
-            <ol type="A" start="5">
+            <ol type="i">
                 <li>Software engineering</li>
                 <li>Web development</li>
                 <li>Python</li>
                 <li>Database</li>
             </ol>
             <h3>un-ordered list</h3>
-            <ul type="i">
+            <ul>
                 <li>Joel</li>
                 <li>Mathew</li>
                 <li>Jonh</li>
